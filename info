@@ -1,0 +1,5 @@
+-- to run next js app
+npm run dev 
+
+-- to run backend (strapi)
+npm run develop
